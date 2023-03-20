@@ -2,7 +2,7 @@
 
 ## Random number generator
 
-This project is a simple application that it take 2 numbers inside a Form so it generate a Random number bettwen the 2 numbers
+simple application that generate a Random number bettwen the 2 numbers (given inside a Form)
 - it contains form Validation so it took only numbers not letters or Carateres
 
 - State Management: Riverpod
